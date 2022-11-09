@@ -1,4 +1,6 @@
 ### Hi there 👋
+Bien que principalement orienté dans le domaine de la technique et de la maintenance, j’ai néanmoins parallèlement toujours souhaité m’exprimer dans la création.
+J’ai ainsi eu depuis longtemps une passion pour le web, son actualité ainsi que les nouvelles technologies.
 
 <!--
 **thierrycharriot/thierrycharriot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
