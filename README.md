@@ -1,6 +1,14 @@
 ### Hi there 👋
-Bien que principalement orienté dans le domaine de la technique et de la maintenance, j’ai néanmoins parallèlement toujours souhaité m’exprimer dans la création.
-J’ai ainsi eu depuis longtemps une passion pour le web, son actualité ainsi que les nouvelles technologies.
+
+Avec mon ancienne expérience en dépannage électroménager et électronique, je possède un esprit de dépannage, et de résolution de problèmes qui se transmet parfaitement dans le développement web.
+
+J’ai une forte appétence pour le développement d’applications web, je suis capable de créer des applications professionnelles, esthétiquement agréables et fonctionnellement optimisées, grâce à mes compétences en HTML, CSS, PHP, et javascript.
+J’ai également une grande expérience en dépannage d’application existante, et je suis capable de diagnostiquer rapidement les erreurs et de les corriger efficacement.
+
+Avec mes connaissances en développement web et WordPress, je suis capable de créer des sites web professionnels et performants, adaptés aux besoins spécifiques de chaque client.
+J’ai également une expérience dans la création de thèmes et de plugins sur mesure, ainsi que dans la personnalisation de sites existants.
+
+Je suis également passionné par les nouvelles technologies et je suis constamment à la recherche de nouveaux défis et de nouvelles opportunités pour développer mes compétences. Je suis convaincu que mes compétences en bricolage et en développement web seront un atout pour tous les projets sur lesquels je travaillerai à l’avenir.
 
 <!--
 **thierrycharriot/thierrycharriot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
