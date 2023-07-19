@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-Avec mon ancienne expérience en dépannage électroménager et électronique, je possède un esprit de dépannage, et de résolution de problèmes qui se transmet parfaitement dans le développement web.
+Je suis un ancien dépanneur électroménager qui s'est reconverti en freelance dans la création de sites web. J'ai une préférence pour les sites statiques générés par Hugo, un générateur de site statique open source.
 
-J’ai une forte appétence pour le développement d’applications web, je suis capable de créer des applications professionnelles, esthétiquement agréables et fonctionnellement optimisées, grâce à mes compétences en HTML, CSS, PHP, et javascript.
-J’ai également une grande expérience en dépannage d’application existante, et je suis capable de diagnostiquer rapidement les erreurs et de les corriger efficacement.
+Si vous ne connaissez pas Hugo, c'est un outil de création de site web qui permet de générer des sites statiques rapidement et facilement, sans avoir besoin d'une base de données ou d'un serveur d'applications. Contrairement aux sites web dynamiques qui ont besoin d'une base de données pour stocker et gérer le contenu, les sites statiques sont composés uniquement de fichiers HTML, CSS et JavaScript. Cela signifie que les sites statiques sont plus rapides à charger, plus sécurisés et plus faciles à héberger que les sites web dynamiques.
 
-Avec mes connaissances en développement web et WordPress, je suis capable de créer des sites web professionnels et performants, adaptés aux besoins spécifiques de chaque client.
-J’ai également une expérience dans la création de thèmes et de plugins sur mesure, ainsi que dans la personnalisation de sites existants.
+Hugo utilise une syntaxe simple pour créer des modèles de pages, des styles CSS et des scripts JavaScript. Vous pouvez créer des pages en utilisant des fichiers Markdown ou HTML, et Hugo convertira automatiquement ces fichiers en HTML.
 
-Je suis également passionné par les nouvelles technologies et je suis constamment à la recherche de nouveaux défis et de nouvelles opportunités pour développer mes compétences. Je suis convaincu que mes compétences en bricolage et en développement web seront un atout pour tous les projets sur lesquels je travaillerai à l’avenir.
+Hugo est un outil très flexible et puissant, qui convient à de nombreux types de sites web, y compris les blogs, les portfolios et les sites d'entreprise. Si vous cherchez à créer un site web rapide, sécurisé et facile à héberger, je vous recommande vivement d'essayer Hugo. N'hésitez pas à me contacter si vous avez des questions ou si vous avez besoin d'aide pour créer votre site web avec Hugo.
 
 <!--
 **thierrycharriot/thierrycharriot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
