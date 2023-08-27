@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-Je suis un ancien dépanneur électroménager qui s'est reconverti en freelance dans la création de sites web. J'ai une préférence pour les sites statiques générés par Hugo, un générateur de site statique open source.
-
-Si vous ne connaissez pas Hugo, c'est un outil de création de site web qui permet de générer des sites statiques rapidement et facilement, sans avoir besoin d'une base de données ou d'un serveur d'applications. Contrairement aux sites web dynamiques qui ont besoin d'une base de données pour stocker et gérer le contenu, les sites statiques sont composés uniquement de fichiers HTML, CSS et JavaScript. Cela signifie que les sites statiques sont plus rapides à charger, plus sécurisés et plus faciles à héberger que les sites web dynamiques.
-
-Hugo utilise une syntaxe simple pour créer des modèles de pages, des styles CSS et des scripts JavaScript. Vous pouvez créer des pages en utilisant des fichiers Markdown ou HTML, et Hugo convertira automatiquement ces fichiers en HTML.
-
-Hugo est un outil très flexible et puissant, qui convient à de nombreux types de sites web, y compris les blogs, les portfolios et les sites d'entreprise. Si vous cherchez à créer un site web rapide, sécurisé et facile à héberger, je vous recommande vivement d'essayer Hugo. N'hésitez pas à me contacter si vous avez des questions ou si vous avez besoin d'aide pour créer votre site web avec Hugo.
+Ancien dépanneur électro-ménager puis ensuite électronicien, je me suis découvert une passion dans la créativité. Ainsi en 2012 en plus des acquis en autodidacte, j’ai fait une formation qui m’a permis d’obtenir un certificat. Passion que j’ai consolidée en Juillet 2022 avec le titre de Développeur Web Web Mobile.
 
 <!--
 **thierrycharriot/thierrycharriot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
