@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Ancien dépanneur électro-ménager puis ensuite électronicien, je me suis découvert une passion dans la créativité. Ainsi en 2012 en plus des acquis en autodidacte, j’ai fait une formation qui m’a permis d’obtenir un certificat. Passion que j’ai consolidée en Juillet 2022 avec le titre de Développeur Web Web Mobile.
+Ancien dépanneur électro-ménager puis ensuite électronicien, je me suis découvert une passion pour la créativité dans le développement Web. Ainsi en 2012 en plus des acquis en autodidacte, j’ai fait une formation qui m’a permis d’obtenir un certificat. Passion que j’ai consolidée en Juillet 2022 avec le titre de Développeur Web Web Mobile.
 
 <!--
 **thierrycharriot/thierrycharriot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
